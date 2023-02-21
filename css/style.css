@@ -1,0 +1,70 @@
+* {
+    /* margin: 0; */
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    text-decoration: none;
+    list-style: none;
+    color: #000;
+    scroll-behavior: smooth;
+}
+
+/* rewriting bootstrap's css */
+
+
+.container-fluid{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+/* importing fonts  */
+@font-face {
+    font-family: AutumnHuismuis;
+    src: url(../fonts/AutumnHuismuis22-3zGGy.otf);
+}
+@font-face {
+    font-family: Doom;
+    src: url(../fonts/Doom2016Text-GOlBq.ttf);
+}
+@font-face {
+    font-family: Doves;
+    src: url(../fonts/doves.ttf);
+}
+@font-face {
+    font-family: tommys;
+    src: url(../fonts/tommys.ttf);
+}
+@font-face {
+    font-family: AmaticSC;
+    src: url(../fonts/amatic-sc.regular.ttf);
+}
+@font-face {
+    font-family: Anne;
+    src: url(../fonts/AnnieUseYourTelescope.ttf);
+}
+
+/* setting the fonts to specific classes */
+.autumn{
+    font-family: AutumnHuismuis;
+}
+
+.doom{
+    font-family: Doom;
+}
+.tommys{
+    font-family: tommys;
+}
+.doves{
+    font-family: Doves;
+}
+.amatic{
+    font-family: AmaticSC;
+}
+
+.anne{
+    font-family: Anne;
+}

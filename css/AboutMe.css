@@ -1,0 +1,58 @@
+#aboutMe{
+    background-color: #d6d6d6;
+    min-height: 4350px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+#aboutMe .container {
+    height: 3517px;
+    margin: 0;
+    padding: 0;
+}
+
+#AmSect{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    height: 100%;
+    margin: 0;
+}
+
+#AmDesc{
+    min-width: 450px !important;
+    margin: 0;
+    margin-top: 65px;
+    padding: 0;
+    font-size: 2.5em;
+}
+
+#AmTit{
+    font-size: 5.4em;
+    font-weight: normal;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+#otaku{
+    font-size: 5em;
+}
+
+#Guitar{
+    font-size: 5.3em;
+}
+
+#Reality{
+    font-size: 5.3em;
+}
+
+#Bat{
+    font-size: 5.3em;
+}
+
+#batman{
+    font-size: 3.6em;
+}

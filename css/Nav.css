@@ -1,0 +1,54 @@
+#LogoDiv{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+#Logo {
+    height: 60px;
+    width: 60px;
+}
+
+#navbar {
+    background-color: #d9d9d9;
+    border-bottom: 1px solid black;
+    min-height: 70px;
+    display: flex;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+
+#NavContent{
+    width: 100%;
+}
+
+
+#navbar ul {
+    align-items: center;
+    width: 90%;
+    text-align: center;
+    margin: 0;
+}
+
+#navbar ul li a {
+    color: #000;
+    font-size: 1.75rem;
+    font-weight: normal;
+}
+
+#navbar ul li a:hover {
+    color: #000;
+    text-decoration: none;
+}
+#navListDiv{
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+#Profimage{
+    height: 812px;
+    width: 535px;
+}

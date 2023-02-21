@@ -1,0 +1,27 @@
+footer{
+    background-color: #3c3c3c;
+}
+
+footer h2{
+    color: #d6d6d6;
+    align-items: end;
+    justify-content: center;
+    display: flex;
+    font-size: 3.2em;
+    margin-left: 60px;
+    max-width :100px;
+}
+
+#LogoW{
+    fill: #d6d6d6;
+    height: 50px;
+    width: 50px;
+}
+
+#FootDiv{
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    flex-wrap: nowrap;
+    align-items: center;
+}

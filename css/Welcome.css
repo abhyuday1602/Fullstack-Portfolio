@@ -1,0 +1,41 @@
+#welcome-section {
+    background-image: linear-gradient(#e4e4e4, #d6d6d6);
+    min-height: 100vh;
+}
+
+#hero-text {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+#herotit{
+    font-size: 3.7rem;
+    font-weight: normal;
+    color: #000;
+}
+
+#heroDesc{
+    font-size: 1.75rem;
+    font-weight: normal;
+    color: #000;
+}
+
+#Name{
+    font-size: 90px;
+    font-weight: normal;
+    color: #000;
+}
+
+/* Image */
+
+#Profimage{ 
+    justify-content:left;
+    align-items: center;
+    display: flex;
+}
+
+#Profimage img{
+    height: 620px;
+    width: 396px;
+}

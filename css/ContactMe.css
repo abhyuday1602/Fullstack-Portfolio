@@ -1,0 +1,86 @@
+#contactMe{
+    background-image: linear-gradient(#ededed, #eaeaea);
+    min-height: 100vh;
+}
+
+#socialLinks{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    min-height: 75vh;
+}
+
+#linkList{
+    min-height: 75vh;
+    margin-top: 150px;
+}
+
+#linkList h1{
+    display: flex;
+    justify-content: left;
+    align-items: end;
+    font-size: 5.4em;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+#linkList h3{
+    display: flex;
+    justify-content: left;
+    align-items: start;
+    font-size: 2.55em;
+    margin: 0;
+    min-height: 25px;
+}
+
+#linkList ul{
+    margin-bottom: 170px;
+}
+
+#linkList ul li a{
+    font-size: 2.55em;
+    text-decoration: none;
+    color: #000000;
+}
+
+/* contact form  */
+
+#contactForm{
+    min-height: 75vh;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+#contactForm div{
+    min-height: 75vh;
+    justify-content: left;
+    align-items: center;
+    display: flex;
+}
+
+#contactForm h1{
+    font-size: 11.5em;
+    margin: 0;
+    margin-bottom: 20px;
+    display: flex;
+}
+#contactForm form{
+    min-height: 20vh;
+    font-size: 1.45em;
+    margin-bottom: 30px;
+}
+
+#contactForm form input{
+    background-color: aliceblue;
+    margin-bottom: 15px;
+}
+
+#contactForm form textarea{
+    background-color: aliceblue;
+    margin-bottom: 15px;
+}
+
+#contactForm form button{
+    font-size: 1.45em;
+}
