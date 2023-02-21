@@ -9,3 +9,5 @@ Most of those actually aren't commited in this repo as I'm planning to make an a
 
 The project being in fullstack made it preety comfortable for me to play with stuff that I never checked before.
 The Figma design for the same is included in the repo as well.
+
+![UI](https://github.com/abhyuday1602/Fullstack-Portfolio/blob/main/svgline.png)
